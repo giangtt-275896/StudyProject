@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DemoRecycleView</string>
+    <string name="default_name">Peter</string>
+    <string name="default_address">England</string>
+</resources>
