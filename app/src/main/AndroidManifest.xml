@@ -9,15 +9,15 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name="com.example.demosqlite.SqliteActivity">
+        <activity android:name="com.example.demoroomdata.activity.RoomActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".activity.RecyclerViewActivity">
-        </activity>
+        <activity android:name="com.example.demosqlite.SqliteActivity"></activity>
+        <activity android:name=".activity.RecyclerViewActivity"></activity>
     </application>
 
 </manifest>
